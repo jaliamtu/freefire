@@ -14,7 +14,8 @@ var os = [
   { name: "iPad", value: "Mac" },
   { name: "Macintosh", value: "Mac" },
   { name: "Linux", value: "Linux" },
-  { name: "Windows", value: "Win" },
+  { name: "Win10", value: "Win10" },
+  { name: "Windows", value: "Win8" },
 ];
 
 let broswerChecker = () => {
